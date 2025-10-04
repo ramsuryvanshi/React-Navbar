@@ -40,6 +40,7 @@ Technologies Used
 src/
  ├── components/
  │    └── Navbar.jsx
+       ├── Navbar.css
  ├── pages/
  │    ├── Home.jsx
  │    ├── About.jsx
@@ -47,5 +48,5 @@ src/
  │    └── Contact.jsx
  ├── App.jsx
  ├── index.js
- └── App.css / Navbar.css / Pages.css
+ └── App.css 
 
